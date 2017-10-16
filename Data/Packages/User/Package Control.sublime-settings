@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"HTMLBeautify",
+		"IMESupport",
+		"jQuery",
+		"JsFormat",
+		"LESS",
+		"Package Control",
+		"SyncedSidebarBg",
+		"TrailingSpaces",
+		"View In Browser"
+	]
+}
